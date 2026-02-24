@@ -1,2 +1,2 @@
 import streamlit as st
-st.title("EGUDU")
+st.title("EGUDU DIA")
