@@ -1,5 +1,6 @@
 import streamlit as st
 with st.sidebar:
+  st.write("Papa Demba DIOP")
   st.info("Adama Egudu DIA" )
   st.info("Adresse:Camberene1" )
 st.header("Profil")
