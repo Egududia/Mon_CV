@@ -1,2 +1,3 @@
 import streamlit as st
-st.title("EGUDU DIA")
+with st.sidebar:
+  st.info("Prénom:Adama Egudu")
