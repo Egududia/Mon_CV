@@ -1,4 +1,3 @@
 import streamlit as st
 with st.sidebar:
-  st.info("Prénom: Adama Egudu"
-         "Nom:")
+  st.info("Prénom: Adama Egudu","nom")
