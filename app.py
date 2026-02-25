@@ -5,4 +5,4 @@ with st.sidebar:
 st.header("Profil")
 st.write("Étudiante en 2ᵉ année de BTS en géomatique,passionnée par l’analyse spatiale,le traitement d'image par drone et la cartographie thématique")
 st.header("Conpétence")
-st.write("Maitrise des logiciel Qgis,Arcgis,Agisoft metashape","Cartographie thématique")
+st.write("Maitrise des logiciel Qgis,Arcgis,Agisoft metashape"\n"Cartographie thématique")
