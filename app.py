@@ -2,7 +2,7 @@ import streamlit as st
 with st.sidebar:
   st.write("Adama Egudu DIA")
   st.markdown(""" 
-  - Adresse:Camberene1
+  - 📞Adresse:Camberene1
   - Email:adamaegudu@gmail.com""")
 st.header("Profil")
 st.write("Étudiante en 2ᵉ année de BTS en géomatique,passionnée par l’analyse spatiale,le traitement d'image par drone et la cartographie thématique")
