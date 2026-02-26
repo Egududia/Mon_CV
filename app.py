@@ -3,17 +3,37 @@ with st.sidebar:
   st.header("Adama Egudu DIA")
   st.write("Technicienne Supérieur en géomatique")
   st.markdown(""" 
-  - 📞Adresse:Camberene1
-  - 📧Email:adamaegudu@gmail.com""")
+  - Adresse:Camberene1
+  - Email:adamaegudu@gmail.com""")
 st.subheader("Profil")
 st.write("Étudiante en 2ᵉ année de BTS en géomatique,passionnée par l’analyse spatiale,le traitement d'image par drone et la cartographie thématique")
-st.header("Compétence")
+st.subheader("Compétence")
 st.markdown("""
 - Maitrise des logiciel Qgis,Arcgis,Agisoft metashape, Autocad,...
 - Conception de carte
+- Pilotage de drone
 - Géoréférencement d’images
 - Numérisation
 - Conception de bases de données spatiales
-- Pilotage de drone
-- Intégration des GCP 
+- Conception  de Plans sur Autocad 
+- Maitrise du Pack Office (EXCEL, WORD , POWER POINT)
 """)
+st.subheader("Diplomes")
+st.markdown("""
+- BTS en géomatique en cours
+- Diplome d'honneur en géomatique
+- Attestation de stage en géomatique
+- Baccalaureat
+""")
+st.subheader("Expériences Professionnel")
+st.markdown("""
+- Stage en géomatique au BET Plus SA du 14 Aout au 7 Octobre 2025
+- Stage de découverte en Cyber sécurité au POLARIS Secure Technologies en Aout 2024 
+""")
+st.subheader("Project Académique")
+st.markdown("""
+- Projection cartographique: Collecte de données des points de commerce et écoles de formation professionnel
+- SIG: Création de base de données ,numérisation et géoreférencement des cartes
+- Photogrammétrie:Traitement de données avec Agisoft et Pix4D mapper
+""")
+
