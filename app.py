@@ -3,8 +3,8 @@ with st.sidebar:
   st.header("Adama Egudu DIA")
   st.write("Étudiante en BTS géomatique (2ᵉ année)")
   st.markdown(""" 
-  - Adresse:Camberene1
-  - Email:adamaegudu@gmail.com""")
+  - Adresse: Camberene1
+  - Email: adamaegudu@gmail.com""")
 st.subheader("Profil")
 st.write("Passionnée par l’analyse spatiale,le traitement d'image par drone et la cartographie thématique. je suis une personne ambicieuse et rigoureuse dotée d'une capacité de travailler en equipe pour mener à bien des projets.")
 st.subheader("Compétence")
