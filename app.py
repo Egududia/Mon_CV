@@ -6,7 +6,7 @@ with st.sidebar:
   - Adresse:Camberene1
   - Email:adamaegudu@gmail.com""")
 st.subheader("Profil")
-st.write("Étudiante en 2ᵉ année de BTS en géomatique,passionnée par l’analyse spatiale,le traitement d'image par drone et la cartographie thématique. je suis une personne ambicieuse et rigoureuse dotée d'une capacité de travailler en equipe pour mener à bien des projets.")
+st.write(Passionnée par l’analyse spatiale,le traitement d'image par drone et la cartographie thématique. je suis une personne ambicieuse et rigoureuse dotée d'une capacité de travailler en equipe pour mener à bien des projets.")
 st.subheader("Compétence")
 st.markdown("""
 - Maitrise des logiciel Qgis,Arcgis,Agisoft metashape, Autocad,...
@@ -33,6 +33,7 @@ st.markdown("""
 st.subheader("Project Académique")
 st.markdown("""
 - Projection cartographique: Collecte de données des points de commerce et écoles de formation professionnel
+- Réalisation de cartes thématiques sous SIG
 - SIG: Création de base de données ,numérisation et géoreférencement des cartes
 - Photogrammétrie:Traitement de données avec Agisoft et Pix4D mapper
 """)
