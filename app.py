@@ -1,7 +1,7 @@
 import streamlit as st
 with st.sidebar:
   st.header("Adama Egudu DIA")
-  st.write("Technicienne Supérieur en géomatique")
+  st.write("Étudiante en BTS géomatique (2ᵉ année)")
   st.markdown(""" 
   - Adresse:Camberene1
   - Email:adamaegudu@gmail.com""")
