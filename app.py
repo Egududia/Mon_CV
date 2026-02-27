@@ -10,7 +10,7 @@ st.write("Passionnée par l’analyse spatiale,le traitement d'image par drone e
 st.subheader("Compétence")
 st.markdown("""
 - Pilotage de drone
-- Maitrise des logiciel Qgis,Arcgis,Agisoft metashape, Autocad,...
+- Maitrise des logiciel Qgis,Arcgis,Agisoft metashape, Autocad,Pix4Dmapper
 - Conception de carte
 - Géoréférencement d’images
 - Numérisation
@@ -26,12 +26,12 @@ st.markdown("""
 - Attestation de stage en géomatique
 - Baccalaureat
 """)
-st.subheader("Expériences Professionnel")
+st.subheader("Expériences Professionnelle")
 st.markdown("""
 - Stage en géomatique au BET Plus SA du 14 Aout au 7 Octobre 2025
 - Stage de découverte en Cyber sécurité au POLARIS Secure Technologies en Aout 2024 
 """)
-st.subheader("Project Académique")
+st.subheader("Projects Académiques")
 st.markdown("""
 - Projection cartographique: Collecte de données des points de commerce et écoles de formation professionnel
 - Réalisation de cartes thématiques sous SIG
