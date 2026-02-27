@@ -7,7 +7,7 @@ with st.sidebar:
   - Email: adamaegudu@gmail.com""")
 st.subheader("Profil")
 st.write("Passionnée par l’analyse spatiale,le traitement d'image par drone et la cartographie thématique, je suis une personne ambicieuse et rigoureuse dotée d'une capacité de travailler en equipe pour mener à bien des projets.")
-st.subheader("Compétence")
+st.subheader("Compétences")
 st.markdown("""
 - Pilotage de drone
 - Maitrise des logiciel Qgis,Arcgis,Agisoft metashape, Autocad,Pix4Dmapper
